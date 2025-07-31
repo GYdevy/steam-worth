@@ -19,7 +19,7 @@ This tool sends requests to obtain real-time inventory data, computes its total 
 - [Contributing](#contributing)
 
 
-## 📺 Demo Video
+## Demo Video
 
 [Watch the demo](https://files.catbox.moe/i7amq3.mp4)
 
